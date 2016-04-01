@@ -37,9 +37,6 @@ textarea {
   border-radius: 0px;
   -webkit-appearance: none;
 }
-ul {
-  list-style: none;
-}
 /**/
 header,
 footer,
@@ -131,6 +128,9 @@ p {
   width: 124px;
   height: 55px;
 }
+.header .navbar {
+  min-height: 45px;
+}
 .header .navbar-default {
   background-color: #266590;
   border: transparent;
@@ -141,7 +141,7 @@ p {
 }
 .header .navbar-default .navbar-nav li a {
   color: #ffffff;
-  font: 19px/21px 'ufonts_com_centurygothic';
+  font: 19px/19px 'ufonts_com_centurygothic';
   padding: 9px 20px;
 }
 .header .navbar-default .navbar-nav li a:hover,
@@ -166,6 +166,7 @@ p {
 }
 .header.tiny .logo {
   background-size: 233px 188px;
+  background-position: 0 4px;
 }
 .sprite {
   background-image: url("../img/sprite.svg");
@@ -801,6 +802,9 @@ img#plax-sphere-2 {
 .trusted.block {
   padding-bottom: 72px;
 }
+.trusted-row {
+  overflow: hidden;
+}
 .trusted .thumbnail .caption {
   padding: 0;
 }
@@ -927,6 +931,20 @@ footer ul.copyright li a:hover {
     margin-left: 11px;
   }
 }
+@media (max-width: 992px) {
+  .header .navbar-default .navbar-nav li a {
+    font: 15px/19px 'ufonts_com_centurygothic';
+    padding: 9px 11px;
+  }
+  .header .navbar-default .navbar-nav li a:hover,
+  .header .navbar-default .navbar-nav li a:focus,
+  .header .navbar-default .navbar-nav li a:active {
+    padding: 7px 9px;
+  }
+  .header .navbar-default .navbar-nav li.active a {
+    padding: 7px 9px;
+  }
+}
 @media (max-width: 960px) {
   .one-review.reviews-left,
   .one-review.reviews-right {
@@ -967,7 +985,6 @@ footer ul.copyright li a:hover {
     margin-top: 27px;
   }
   ul.nav.navbar-nav {
-    float: none !important;
     text-align: center;
   }
   .navbar-default .navbar-collapse,
@@ -1021,6 +1038,9 @@ footer ul.copyright li a:hover {
   .carousel .carousel-control.left,
   .carousel .carousel-control.right {
     display: none;
+  }
+  ul.nav.navbar-nav {
+    float: none !important;
   }
   .thumbnail {
     margin-bottom: 25px;

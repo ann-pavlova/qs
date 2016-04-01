@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 723.3 389.9" style="enable-background:new 0 0 723.3 389.9;" xml:space="preserve">
+	 viewBox="64 226 723.3 389.9" style="enable-background:new 64 226 723.3 389.9;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#EBEAEA;}
 	.st1{fill:#0050EF;}
@@ -9,456 +9,156 @@
 	.st3{fill:#EDEDED;}
 	.st4{fill:#2B2B2B;}
 </style>
-<g id="XMLID_842_">
-	
-		<image style="overflow:visible;opacity:0.4;" width="963" height="1521" id="XMLID_5601_" xlink:href="F0F838A7.png"  transform="matrix(0.24 0 0 0.24 244.8012 18.4226)">
-	</image>
-	<g id="XMLID_3143_">
-		<g id="XMLID_4757_">
-			<rect id="XMLID_5177_" x="259.8" y="26.4" class="st0" width="201" height="335"/>
-			<g id="XMLID_5160_">
-				<path id="XMLID_5172_" class="st1" d="M326.1,157.5v-15.2h4.3c1.3,0,2.4,0.3,3.1,1c0.8,0.6,1.2,1.5,1.2,2.5
-					c0,0.9-0.2,1.6-0.7,2.3s-1.1,1.1-1.9,1.4v0c1,0.1,1.9,0.5,2.5,1.2c0.6,0.7,0.9,1.5,0.9,2.6c0,1.3-0.5,2.4-1.4,3.2
-					c-0.9,0.8-2.1,1.2-3.5,1.2H326.1z M327.9,143.8v4.9h1.8c1,0,1.7-0.2,2.3-0.7c0.6-0.5,0.8-1.1,0.8-2c0-1.5-1-2.2-2.9-2.2H327.9z
-					 M327.9,150.4v5.5h2.4c1,0,1.9-0.2,2.4-0.7s0.9-1.2,0.9-2c0-1.8-1.2-2.7-3.7-2.7H327.9z"/>
-				<path id="XMLID_5169_" class="st1" d="M349.5,157.5h-2.1l-2.6-4.3c-0.2-0.4-0.5-0.7-0.7-1c-0.2-0.3-0.4-0.5-0.7-0.7
-					c-0.2-0.2-0.5-0.3-0.7-0.4c-0.3-0.1-0.6-0.1-0.9-0.1h-1.5v6.5h-1.8v-15.2h4.6c0.7,0,1.3,0.1,1.8,0.3c0.6,0.2,1.1,0.4,1.5,0.8
-					s0.7,0.8,1,1.3s0.4,1.1,0.4,1.8c0,0.5-0.1,1-0.2,1.5c-0.2,0.4-0.4,0.8-0.7,1.2c-0.3,0.3-0.6,0.6-1.1,0.9
-					c-0.4,0.2-0.9,0.4-1.4,0.6v0c0.3,0.1,0.5,0.2,0.7,0.4c0.2,0.1,0.4,0.3,0.5,0.5s0.3,0.4,0.5,0.7c0.2,0.3,0.4,0.5,0.6,0.9
-					L349.5,157.5z M340.4,143.8v5.5h2.4c0.4,0,0.9-0.1,1.2-0.2c0.4-0.1,0.7-0.3,1-0.6c0.3-0.3,0.5-0.6,0.6-0.9
-					c0.2-0.4,0.2-0.8,0.2-1.2c0-0.8-0.3-1.5-0.8-1.9s-1.3-0.7-2.3-0.7H340.4z"/>
-				<path id="XMLID_5167_" class="st1" d="M353.4,157.5h-1.8v-15.2h1.8V157.5z"/>
-				<path id="XMLID_5165_" class="st1" d="M367.8,156.8c-1.1,0.6-2.5,0.9-4.2,0.9c-2.2,0-3.9-0.7-5.2-2.1c-1.3-1.4-2-3.2-2-5.5
-					c0-2.4,0.7-4.4,2.2-5.9c1.5-1.5,3.3-2.3,5.6-2.3c1.4,0,2.6,0.2,3.6,0.6v1.9c-1.1-0.6-2.3-0.9-3.6-0.9c-1.8,0-3.2,0.6-4.3,1.8
-					c-1.1,1.2-1.6,2.7-1.6,4.7c0,1.9,0.5,3.3,1.5,4.4c1,1.1,2.4,1.7,4,1.7c1.5,0,2.9-0.3,4-1V156.8z"/>
-				<path id="XMLID_5163_" class="st1" d="M381.5,157.5H379l-5.9-7c-0.2-0.3-0.4-0.4-0.4-0.5h0v7.5h-1.8v-15.2h1.8v7.2h0
-					c0.1-0.2,0.2-0.3,0.4-0.5l5.7-6.6h2.2l-6.5,7.3L381.5,157.5z"/>
-				<path id="XMLID_5161_" class="st1" d="M394,151.8h-4.3v4.3h-1.4v-4.3H384v-1.4h4.3v-4.3h1.4v4.3h4.3V151.8z"/>
-			</g>
-			<rect id="XMLID_5159_" x="282.9" y="173.7" class="st2" width="156.2" height="29.9"/>
-			<rect id="XMLID_5158_" x="282.9" y="209.3" class="st1" width="156.2" height="29.9"/>
-			<rect id="XMLID_5157_" x="282.9" y="244.7" class="st2" width="156.2" height="29.9"/>
-			<rect id="XMLID_5156_" x="282.6" y="279.4" class="st2" width="156.2" height="29.9"/>
-			<g id="XMLID_5140_">
-				<path id="XMLID_5154_" class="st3" d="M332.1,229.3h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6h0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
-					v-10.3h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7h0c0-0.3-0.1-0.8-0.1-1.5v-7.2h1.2V229.3z"/>
-				<path id="XMLID_5152_" class="st3" d="M340.2,229.3h-5.4v-10.3h5.2v1.1h-4v3.4h3.7v1.1H336v3.6h4.2V229.3z"/>
-				<path id="XMLID_5150_" class="st3" d="M354.4,219.1l-2.9,10.3h-1.4l-2.1-7.5c-0.1-0.3-0.1-0.7-0.2-1h0c0,0.4-0.1,0.7-0.2,1
-					l-2.1,7.5h-1.4l-3-10.3h1.3l2.2,7.9c0.1,0.3,0.1,0.7,0.2,1h0c0-0.3,0.1-0.6,0.2-1l2.3-7.9h1.2l2.2,7.9c0.1,0.3,0.1,0.6,0.2,1h0
-					c0-0.2,0.1-0.6,0.2-1l2.1-7.9H354.4z"/>
-				<path id="XMLID_5148_" class="st3" d="M367.6,228.6c-1,0.6-2.2,0.9-3.4,0.9c-1.5,0-2.6-0.5-3.6-1.4c-0.9-0.9-1.4-2.2-1.4-3.8
-					c0-1.6,0.5-2.9,1.5-3.9c1-1,2.3-1.5,3.8-1.5c1.1,0,2.1,0.2,2.8,0.5v1.3c-0.8-0.5-1.8-0.8-2.9-0.8c-1.1,0-2.1,0.4-2.8,1.2
-					s-1.1,1.8-1.1,3.1c0,1.3,0.3,2.3,1,3.1s1.6,1.1,2.8,1.1c0.8,0,1.5-0.2,2.1-0.5v-2.9h-2.2V224h3.4V228.6z"/>
-				<path id="XMLID_5145_" class="st3" d="M377.9,229.3h-1.3l-1.1-2.9h-4.4l-1,2.9h-1.3l3.9-10.3h1.2L377.9,229.3z M375.1,225.4
-					l-1.6-4.4c-0.1-0.1-0.1-0.4-0.2-0.7h0c0,0.3-0.1,0.5-0.2,0.7l-1.6,4.4H375.1z"/>
-				<path id="XMLID_5143_" class="st3" d="M389.9,229.3h-1.2v-6.9c0-0.5,0-1.2,0.1-2h0c-0.1,0.5-0.2,0.8-0.3,1l-3.5,7.9h-0.6
-					l-3.5-7.8c-0.1-0.2-0.2-0.6-0.3-1.1h0c0,0.4,0.1,1.1,0.1,2v6.9h-1.2v-10.3h1.6l3.1,7.2c0.2,0.5,0.4,1,0.5,1.2h0
-					c0.2-0.6,0.4-1,0.5-1.3l3.2-7.1h1.5V229.3z"/>
-				<path id="XMLID_5141_" class="st3" d="M398,229.3h-5.4v-10.3h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2V229.3z"/>
-			</g>
-			<g id="XMLID_5120_">
-				<g id="XMLID_5121_">
-					<path id="XMLID_5137_" class="st4" d="M337.6,264.6h-1.4l-1.7-2.9c-0.2-0.3-0.3-0.5-0.5-0.7s-0.3-0.3-0.5-0.5
-						c-0.2-0.1-0.3-0.2-0.5-0.3c-0.2-0.1-0.4-0.1-0.6-0.1h-1v4.4h-1.2v-10.3h3.1c0.4,0,0.9,0.1,1.2,0.2s0.7,0.3,1,0.5
-						c0.3,0.2,0.5,0.5,0.7,0.9c0.2,0.3,0.2,0.7,0.2,1.2c0,0.4-0.1,0.7-0.2,1c-0.1,0.3-0.3,0.6-0.5,0.8c-0.2,0.2-0.4,0.4-0.7,0.6
-						c-0.3,0.2-0.6,0.3-0.9,0.4v0c0.2,0.1,0.3,0.2,0.4,0.3c0.1,0.1,0.2,0.2,0.4,0.3c0.1,0.1,0.2,0.3,0.3,0.5
-						c0.1,0.2,0.2,0.4,0.4,0.6L337.6,264.6z M331.4,255.5v3.7h1.6c0.3,0,0.6,0,0.8-0.1c0.3-0.1,0.5-0.2,0.7-0.4
-						c0.2-0.2,0.3-0.4,0.4-0.6s0.2-0.5,0.2-0.8c0-0.5-0.2-1-0.5-1.3c-0.4-0.3-0.9-0.5-1.5-0.5H331.4z"/>
-					<path id="XMLID_5135_" class="st4" d="M344.4,264.6H339v-10.3h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2V264.6z"/>
-					<path id="XMLID_5133_" class="st4" d="M353.4,264.2c-0.8,0.4-1.7,0.6-2.8,0.6c-1.5,0-2.6-0.5-3.5-1.4c-0.9-0.9-1.3-2.2-1.3-3.7
-						c0-1.6,0.5-3,1.5-4c1-1,2.2-1.5,3.8-1.5c1,0,1.8,0.1,2.4,0.4v1.3c-0.7-0.4-1.5-0.6-2.4-0.6c-1.2,0-2.1,0.4-2.9,1.2
-						c-0.7,0.8-1.1,1.8-1.1,3.2c0,1.3,0.3,2.2,1,3s1.6,1.1,2.7,1.1c1,0,1.9-0.2,2.7-0.7V264.2z"/>
-					<path id="XMLID_5130_" class="st4" d="M359.2,264.8c-1.5,0-2.6-0.5-3.5-1.4s-1.3-2.2-1.3-3.7c0-1.7,0.4-3,1.3-4
-						c0.9-1,2.1-1.5,3.6-1.5c1.4,0,2.6,0.5,3.4,1.4c0.9,1,1.3,2.2,1.3,3.7c0,1.7-0.4,3-1.3,4S360.7,264.8,359.2,264.8z M359.3,255.3
-						c-1.1,0-2,0.4-2.6,1.2c-0.7,0.8-1,1.8-1,3.1c0,1.3,0.3,2.3,1,3.1c0.7,0.8,1.5,1.2,2.6,1.2c1.1,0,2-0.4,2.7-1.1s1-1.8,1-3.1
-						c0-1.4-0.3-2.4-0.9-3.1C361.3,255.7,360.4,255.3,359.3,255.3z"/>
-					<path id="XMLID_5127_" class="st4" d="M373.5,264.6h-1.4l-1.7-2.9c-0.2-0.3-0.3-0.5-0.5-0.7c-0.1-0.2-0.3-0.3-0.5-0.5
-						s-0.3-0.2-0.5-0.3s-0.4-0.1-0.6-0.1h-1v4.4h-1.2v-10.3h3.1c0.4,0,0.9,0.1,1.2,0.2c0.4,0.1,0.7,0.3,1,0.5
-						c0.3,0.2,0.5,0.5,0.7,0.9c0.2,0.3,0.2,0.7,0.2,1.2c0,0.4-0.1,0.7-0.2,1c-0.1,0.3-0.3,0.6-0.5,0.8c-0.2,0.2-0.4,0.4-0.7,0.6
-						c-0.3,0.2-0.6,0.3-0.9,0.4v0c0.2,0.1,0.3,0.2,0.4,0.3c0.1,0.1,0.2,0.2,0.4,0.3c0.1,0.1,0.2,0.3,0.3,0.5
-						c0.1,0.2,0.2,0.4,0.4,0.6L373.5,264.6z M367.3,255.5v3.7h1.6c0.3,0,0.6,0,0.8-0.1s0.5-0.2,0.7-0.4c0.2-0.2,0.3-0.4,0.4-0.6
-						c0.1-0.2,0.2-0.5,0.2-0.8c0-0.5-0.2-1-0.5-1.3s-0.9-0.5-1.5-0.5H367.3z"/>
-					<path id="XMLID_5124_" class="st4" d="M374.9,264.6v-10.3h2.8c3.6,0,5.4,1.7,5.4,5c0,1.6-0.5,2.9-1.5,3.8c-1,1-2.3,1.4-4,1.4
-						H374.9z M376.1,255.5v8.1h1.5c1.3,0,2.4-0.4,3.1-1.1c0.7-0.7,1.1-1.7,1.1-3.1c0-2.6-1.4-3.9-4.2-3.9H376.1z"/>
-					<path id="XMLID_5122_" class="st4" d="M384.7,264.2v-1.4c0.2,0.1,0.4,0.3,0.6,0.4s0.5,0.2,0.7,0.3c0.3,0.1,0.5,0.1,0.8,0.2
-						s0.5,0.1,0.7,0.1c0.7,0,1.3-0.1,1.7-0.4c0.4-0.3,0.5-0.7,0.5-1.2c0-0.3-0.1-0.5-0.2-0.7c-0.1-0.2-0.3-0.4-0.5-0.6
-						s-0.5-0.3-0.8-0.5c-0.3-0.2-0.6-0.3-0.9-0.5c-0.4-0.2-0.7-0.4-1-0.6c-0.3-0.2-0.6-0.4-0.8-0.6c-0.2-0.2-0.4-0.5-0.5-0.8
-						c-0.1-0.3-0.2-0.6-0.2-1c0-0.5,0.1-0.9,0.3-1.2s0.5-0.6,0.8-0.9c0.3-0.2,0.7-0.4,1.1-0.5c0.4-0.1,0.9-0.2,1.3-0.2
-						c1,0,1.7,0.1,2.2,0.4v1.4c-0.6-0.4-1.4-0.6-2.3-0.6c-0.3,0-0.5,0-0.8,0.1c-0.3,0.1-0.5,0.1-0.7,0.3s-0.4,0.3-0.5,0.5
-						s-0.2,0.4-0.2,0.7c0,0.3,0,0.5,0.1,0.7c0.1,0.2,0.2,0.4,0.4,0.5c0.2,0.2,0.4,0.3,0.7,0.5c0.3,0.1,0.6,0.3,0.9,0.5
-						c0.4,0.2,0.7,0.4,1,0.6s0.6,0.4,0.9,0.7s0.4,0.5,0.6,0.8s0.2,0.6,0.2,1c0,0.5-0.1,0.9-0.3,1.3c-0.2,0.4-0.5,0.6-0.8,0.9
-						c-0.3,0.2-0.7,0.4-1.2,0.5c-0.4,0.1-0.9,0.1-1.4,0.1c-0.2,0-0.4,0-0.6,0c-0.2,0-0.5-0.1-0.7-0.1c-0.2,0-0.5-0.1-0.7-0.2
-						S384.8,264.3,384.7,264.2z"/>
-				</g>
-			</g>
-			<g id="XMLID_5102_">
-				<path id="XMLID_5118_" class="st4" d="M333.3,193.7c-0.8,0.4-1.7,0.6-2.8,0.6c-1.5,0-2.6-0.5-3.5-1.4c-0.9-0.9-1.3-2.2-1.3-3.7
-					c0-1.6,0.5-3,1.5-4c1-1,2.2-1.5,3.8-1.5c1,0,1.8,0.1,2.4,0.4v1.3c-0.7-0.4-1.5-0.6-2.4-0.6c-1.2,0-2.1,0.4-2.9,1.2
-					c-0.7,0.8-1.1,1.8-1.1,3.2c0,1.3,0.3,2.2,1,3s1.6,1.1,2.7,1.1c1,0,1.9-0.2,2.7-0.7V193.7z"/>
-				<path id="XMLID_5115_" class="st4" d="M339.2,194.3c-1.5,0-2.6-0.5-3.5-1.4s-1.3-2.2-1.3-3.7c0-1.7,0.4-3,1.3-4
-					c0.9-1,2.1-1.5,3.6-1.5c1.4,0,2.6,0.5,3.4,1.4c0.9,1,1.3,2.2,1.3,3.7c0,1.7-0.4,3-1.3,4S340.6,194.3,339.2,194.3z M339.2,184.8
-					c-1.1,0-2,0.4-2.6,1.2c-0.7,0.8-1,1.8-1,3.1c0,1.3,0.3,2.3,1,3.1c0.7,0.8,1.5,1.2,2.6,1.2c1.1,0,2-0.4,2.7-1.1s1-1.8,1-3.1
-					c0-1.4-0.3-2.4-0.9-3.1C341.2,185.2,340.4,184.8,339.2,184.8z"/>
-				<path id="XMLID_5113_" class="st4" d="M354.3,194.2h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6h0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
-					v-10.3h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7h0c0-0.3-0.1-0.8-0.1-1.5v-7.2h1.2V194.2z"/>
-				<path id="XMLID_5111_" class="st4" d="M363.1,185h-3v9.2h-1.2V185h-3v-1.1h7.1V185z"/>
-				<path id="XMLID_5109_" class="st4" d="M365.9,194.2h-1.2v-10.3h1.2V194.2z"/>
-				<path id="XMLID_5107_" class="st4" d="M376.9,194.2h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6h0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
-					v-10.3h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7h0c0-0.3-0.1-0.8-0.1-1.5v-7.2h1.2V194.2z"/>
-				<path id="XMLID_5105_" class="st4" d="M387.1,190c0,2.9-1.3,4.3-3.9,4.3c-2.5,0-3.7-1.4-3.7-4.2v-6.3h1.2v6.2
-					c0,2.1,0.9,3.2,2.7,3.2c1.7,0,2.6-1,2.6-3v-6.3h1.2V190z"/>
-				<path id="XMLID_5103_" class="st4" d="M395.1,194.2h-5.4v-10.3h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2V194.2z"/>
-			</g>
-			<rect id="XMLID_5101_" x="282.6" y="315.4" class="st2" width="156.2" height="29.9"/>
-			<g id="XMLID_5083_">
-				<g id="XMLID_5084_">
-					<path id="XMLID_5099_" class="st4" d="M329.3,299v-1.4c0.2,0.1,0.4,0.3,0.6,0.4s0.5,0.2,0.7,0.3c0.3,0.1,0.5,0.1,0.8,0.2
-						c0.3,0,0.5,0.1,0.7,0.1c0.7,0,1.3-0.1,1.7-0.4c0.4-0.3,0.5-0.7,0.5-1.2c0-0.3-0.1-0.5-0.2-0.7s-0.3-0.4-0.5-0.6
-						s-0.5-0.3-0.8-0.5c-0.3-0.2-0.6-0.3-0.9-0.5c-0.4-0.2-0.7-0.4-1-0.6c-0.3-0.2-0.6-0.4-0.8-0.6c-0.2-0.2-0.4-0.5-0.5-0.8
-						c-0.1-0.3-0.2-0.6-0.2-1c0-0.5,0.1-0.9,0.3-1.2s0.5-0.6,0.8-0.9c0.3-0.2,0.7-0.4,1.1-0.5c0.4-0.1,0.9-0.2,1.3-0.2
-						c1,0,1.7,0.1,2.2,0.4v1.4c-0.6-0.4-1.4-0.6-2.3-0.6c-0.3,0-0.5,0-0.8,0.1s-0.5,0.1-0.7,0.3s-0.4,0.3-0.5,0.5s-0.2,0.4-0.2,0.7
-						c0,0.3,0,0.5,0.1,0.7c0.1,0.2,0.2,0.4,0.4,0.5c0.2,0.2,0.4,0.3,0.7,0.5c0.3,0.1,0.6,0.3,0.9,0.5c0.4,0.2,0.7,0.4,1,0.6
-						s0.6,0.4,0.9,0.7s0.4,0.5,0.6,0.8s0.2,0.6,0.2,1c0,0.5-0.1,0.9-0.3,1.3s-0.5,0.6-0.8,0.9c-0.3,0.2-0.7,0.4-1.2,0.5
-						s-0.9,0.1-1.4,0.1c-0.2,0-0.4,0-0.6,0c-0.2,0-0.5-0.1-0.7-0.1c-0.2,0-0.5-0.1-0.7-0.2C329.6,299.2,329.4,299.1,329.3,299z"/>
-					<path id="XMLID_5097_" class="st4" d="M343,299.4h-5.4v-10.3h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2V299.4z"/>
-					<path id="XMLID_5095_" class="st4" d="M351,290.3h-3v9.2h-1.2v-9.2h-3v-1.1h7.1V290.3z"/>
-					<path id="XMLID_5093_" class="st4" d="M359,290.3h-3v9.2h-1.2v-9.2h-3v-1.1h7.1V290.3z"/>
-					<path id="XMLID_5091_" class="st4" d="M361.8,299.4h-1.2v-10.3h1.2V299.4z"/>
-					<path id="XMLID_5089_" class="st4" d="M372.8,299.4h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6h0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
-						v-10.3h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7h0c0-0.3-0.1-0.8-0.1-1.5v-7.2h1.2V299.4z"/>
-					<path id="XMLID_5087_" class="st4" d="M383.1,298.7c-1,0.6-2.2,0.9-3.4,0.9c-1.5,0-2.6-0.5-3.6-1.4s-1.4-2.2-1.4-3.8
-						c0-1.6,0.5-2.9,1.5-3.9s2.3-1.5,3.8-1.5c1.1,0,2.1,0.2,2.8,0.5v1.3c-0.8-0.5-1.8-0.8-2.9-0.8c-1.1,0-2.1,0.4-2.8,1.2
-						c-0.7,0.8-1.1,1.8-1.1,3.1c0,1.3,0.3,2.3,1,3.1c0.7,0.7,1.6,1.1,2.8,1.1c0.8,0,1.5-0.2,2.1-0.5v-2.9h-2.2v-1.1h3.4V298.7z"/>
-					<path id="XMLID_5085_" class="st4" d="M385,299v-1.4c0.2,0.1,0.4,0.3,0.6,0.4s0.5,0.2,0.7,0.3c0.3,0.1,0.5,0.1,0.8,0.2
-						s0.5,0.1,0.7,0.1c0.7,0,1.3-0.1,1.7-0.4c0.4-0.3,0.5-0.7,0.5-1.2c0-0.3-0.1-0.5-0.2-0.7c-0.1-0.2-0.3-0.4-0.5-0.6
-						s-0.5-0.3-0.8-0.5c-0.3-0.2-0.6-0.3-0.9-0.5c-0.4-0.2-0.7-0.4-1-0.6c-0.3-0.2-0.6-0.4-0.8-0.6c-0.2-0.2-0.4-0.5-0.5-0.8
-						c-0.1-0.3-0.2-0.6-0.2-1c0-0.5,0.1-0.9,0.3-1.2s0.5-0.6,0.8-0.9c0.3-0.2,0.7-0.4,1.1-0.5c0.4-0.1,0.9-0.2,1.3-0.2
-						c1,0,1.7,0.1,2.2,0.4v1.4c-0.6-0.4-1.4-0.6-2.3-0.6c-0.3,0-0.5,0-0.8,0.1c-0.3,0.1-0.5,0.1-0.7,0.3s-0.4,0.3-0.5,0.5
-						s-0.2,0.4-0.2,0.7c0,0.3,0,0.5,0.1,0.7c0.1,0.2,0.2,0.4,0.4,0.5c0.2,0.2,0.4,0.3,0.7,0.5c0.3,0.1,0.6,0.3,0.9,0.5
-						c0.4,0.2,0.7,0.4,1,0.6s0.6,0.4,0.9,0.7s0.4,0.5,0.6,0.8s0.2,0.6,0.2,1c0,0.5-0.1,0.9-0.3,1.3c-0.2,0.4-0.5,0.6-0.8,0.9
-						c-0.3,0.2-0.7,0.4-1.2,0.5c-0.4,0.1-0.9,0.1-1.4,0.1c-0.2,0-0.4,0-0.6,0c-0.2,0-0.5-0.1-0.7-0.1c-0.2,0-0.5-0.1-0.7-0.2
-						S385.2,299.1,385,299z"/>
-				</g>
-			</g>
-			<g id="XMLID_4774_">
-				<rect id="XMLID_5082_" x="336.5" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5081_" x="339.5" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5080_" x="342.6" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5079_" x="345.6" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5078_" x="348.6" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5077_" x="351.6" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5076_" x="354.7" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5075_" x="357.7" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5074_" x="360.7" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5073_" x="363.7" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5072_" x="366.8" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5071_" x="369.8" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5070_" x="372.8" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5069_" x="375.8" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5068_" x="378.9" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5067_" x="381.9" y="131.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5066_" x="336.5" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5065_" x="339.5" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5064_" x="342.6" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5063_" x="345.6" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5062_" x="348.6" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5061_" x="351.6" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5060_" x="354.7" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5059_" x="357.7" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5058_" x="360.7" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5057_" x="363.7" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5056_" x="366.8" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5055_" x="369.8" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5054_" x="372.8" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5053_" x="375.8" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5052_" x="378.9" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5051_" x="381.9" y="128.8" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5050_" x="336.5" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5045_" x="339.5" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5044_" x="342.6" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5043_" x="345.6" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5042_" x="348.6" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5041_" x="351.6" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5040_" x="354.7" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5039_" x="357.7" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5038_" x="360.7" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5037_" x="363.7" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5036_" x="366.8" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5035_" x="369.8" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5034_" x="372.8" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5033_" x="375.8" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5032_" x="378.9" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5031_" x="381.9" y="125.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5030_" x="336.5" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5029_" x="339.5" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5028_" x="342.6" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5027_" x="345.6" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5026_" x="354.7" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5025_" x="357.7" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5024_" x="360.7" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5023_" x="363.7" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5022_" x="366.8" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5021_" x="369.8" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5020_" x="372.8" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5019_" x="375.8" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5018_" x="378.9" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5017_" x="381.9" y="122.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5016_" x="336.5" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5015_" x="339.5" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5014_" x="342.6" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5013_" x="345.6" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5012_" x="354.7" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5011_" x="357.7" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5010_" x="360.7" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5009_" x="363.7" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5008_" x="366.8" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5007_" x="369.8" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5006_" x="372.8" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5005_" x="375.8" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5004_" x="378.9" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5003_" x="381.9" y="119.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5002_" x="336.5" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5001_" x="339.5" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_5000_" x="360.7" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4999_" x="363.7" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4998_" x="366.8" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4997_" x="369.8" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4996_" x="378.9" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4995_" x="381.9" y="116.7" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4994_" x="336.5" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4993_" x="339.5" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4992_" x="360.7" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4991_" x="363.7" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4990_" x="366.8" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4989_" x="369.8" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4988_" x="378.9" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4987_" x="381.9" y="113.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4986_" x="336.5" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4985_" x="339.5" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4984_" x="342.6" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4983_" x="345.6" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4982_" x="354.7" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4981_" x="357.7" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4980_" x="360.7" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4979_" x="363.7" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4978_" x="366.8" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4977_" x="369.8" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4976_" x="372.8" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4975_" x="375.8" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4974_" x="378.9" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4973_" x="381.9" y="110.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4972_" x="336.5" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4971_" x="339.5" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4970_" x="342.6" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4969_" x="345.6" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4968_" x="354.7" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4967_" x="357.7" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4966_" x="360.7" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4965_" x="363.7" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4964_" x="366.8" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4963_" x="369.8" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4962_" x="372.8" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4961_" x="375.8" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4960_" x="378.9" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4959_" x="381.9" y="107.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4958_" x="336.5" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4957_" x="339.5" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4956_" x="342.6" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4955_" x="345.6" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4954_" x="348.6" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4953_" x="351.6" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4952_" x="354.7" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4951_" x="357.7" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4950_" x="360.7" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4949_" x="363.7" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4948_" x="366.8" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4947_" x="369.8" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4946_" x="372.8" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4945_" x="375.8" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4944_" x="378.9" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4943_" x="381.9" y="104.6" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4942_" x="336.5" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4941_" x="339.5" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4940_" x="342.6" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4939_" x="345.6" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4938_" x="348.6" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4937_" x="351.6" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4936_" x="354.7" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4935_" x="357.7" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4934_" x="360.7" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4933_" x="363.7" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4931_" x="366.8" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4929_" x="369.8" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4928_" x="372.8" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4926_" x="375.8" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4925_" x="378.9" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4924_" x="381.9" y="101.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4923_" x="336.5" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4922_" x="339.5" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4921_" x="342.6" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4920_" x="348.6" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4919_" x="351.6" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4918_" x="357.7" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4917_" x="360.7" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4916_" x="366.8" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4915_" x="369.8" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4914_" x="375.8" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4913_" x="378.9" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4912_" x="381.9" y="98.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4911_" x="336.5" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4910_" x="339.5" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4909_" x="342.6" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4908_" x="345.6" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4907_" x="348.6" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4906_" x="351.6" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4905_" x="354.7" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4904_" x="357.7" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4903_" x="360.7" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4902_" x="363.7" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4901_" x="366.8" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4900_" x="369.8" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4899_" x="372.8" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4898_" x="375.8" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4897_" x="378.9" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4896_" x="381.9" y="95.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4895_" x="336.5" y="92.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4894_" x="339.5" y="92.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4893_" x="342.6" y="92.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4892_" x="375.8" y="92.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4891_" x="378.9" y="92.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4890_" x="381.9" y="92.5" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4889_" x="336.5" y="89.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4888_" x="339.5" y="89.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4887_" x="342.6" y="89.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4886_" x="375.8" y="89.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4885_" x="378.9" y="89.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4884_" x="381.9" y="89.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4883_" x="336.5" y="86.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4882_" x="339.5" y="86.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4881_" x="342.6" y="86.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4880_" x="375.8" y="86.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4879_" x="378.9" y="86.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4878_" x="381.9" y="86.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4877_" x="336.5" y="83.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4876_" x="339.5" y="83.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4875_" x="342.6" y="83.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4874_" x="375.8" y="83.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4873_" x="378.9" y="83.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4872_" x="381.9" y="83.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4871_" x="336.5" y="80.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4870_" x="339.5" y="80.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4869_" x="342.6" y="80.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4868_" x="375.8" y="80.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4867_" x="378.9" y="80.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4866_" x="381.9" y="80.4" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4865_" x="336.5" y="77.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4864_" x="339.5" y="77.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4863_" x="342.6" y="77.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4862_" x="375.8" y="77.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4861_" x="378.9" y="77.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4860_" x="381.9" y="77.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4859_" x="336.5" y="74.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4858_" x="339.5" y="74.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4857_" x="342.6" y="74.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4856_" x="375.8" y="74.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4855_" x="378.9" y="74.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4854_" x="381.9" y="74.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4853_" x="336.5" y="71.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4852_" x="339.5" y="71.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4851_" x="342.6" y="71.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4850_" x="375.8" y="71.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4849_" x="378.9" y="71.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4848_" x="381.9" y="71.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4847_" x="336.5" y="68.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4846_" x="339.5" y="68.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4845_" x="342.6" y="68.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4844_" x="375.8" y="68.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4843_" x="378.9" y="68.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4842_" x="381.9" y="68.3" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4841_" x="336.5" y="65.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4840_" x="339.5" y="65.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4839_" x="342.6" y="65.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4838_" x="375.8" y="65.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4837_" x="378.9" y="65.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4836_" x="381.9" y="65.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4835_" x="336.5" y="62.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4834_" x="339.5" y="62.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4833_" x="342.6" y="62.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4832_" x="375.8" y="62.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4831_" x="378.9" y="62.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4830_" x="381.9" y="62.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4829_" x="336.5" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4828_" x="339.5" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4827_" x="342.6" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4826_" x="345.6" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4825_" x="348.6" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4824_" x="351.6" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4823_" x="354.7" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4822_" x="357.7" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4821_" x="360.7" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4820_" x="363.7" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4819_" x="366.8" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4818_" x="369.8" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4817_" x="372.8" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4816_" x="375.8" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4815_" x="378.9" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4814_" x="381.9" y="59.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4813_" x="339.5" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4812_" x="342.6" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4811_" x="345.6" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4810_" x="348.6" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4809_" x="351.6" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4808_" x="354.7" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4807_" x="357.7" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4806_" x="360.7" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4805_" x="369.8" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4804_" x="372.8" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4803_" x="375.8" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4802_" x="378.9" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4801_" x="381.9" y="56.2" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4800_" x="342.6" y="53.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4799_" x="348.6" y="53.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4798_" x="360.7" y="53.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4797_" x="363.7" y="53.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4796_" x="369.8" y="53.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4795_" x="372.8" y="53.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4794_" x="336.5" y="50.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4793_" x="342.6" y="50.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4792_" x="354.7" y="50.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4791_" x="372.8" y="50.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4790_" x="336.5" y="47.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4789_" x="339.5" y="47.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4788_" x="354.7" y="47.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4787_" x="357.7" y="47.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4786_" x="378.9" y="47.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4785_" x="381.9" y="47.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4784_" x="339.5" y="44.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4783_" x="354.7" y="44.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4782_" x="381.9" y="44.1" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4779_" x="363.7" y="41" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4778_" x="366.8" y="41" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4777_" x="381.9" y="41" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4776_" x="363.7" y="38" class="st1" width="2.8" height="2.8"/>
-				<rect id="XMLID_4775_" x="366.8" y="38" class="st1" width="2.8" height="2.8"/>
-			</g>
-			<g id="XMLID_4758_">
-				<g id="XMLID_4759_">
-					<path id="XMLID_4771_" class="st4" d="M346.5,335.3h-1.3l-1.1-2.9h-4.4l-1,2.9h-1.3l3.9-10.3h1.2L346.5,335.3z M343.7,331.3
-						l-1.6-4.4c-0.1-0.1-0.1-0.4-0.2-0.7h0c0,0.3-0.1,0.5-0.2,0.7l-1.6,4.4H343.7z"/>
-					<path id="XMLID_4767_" class="st4" d="M348,335.3V325h2.9c0.9,0,1.6,0.2,2.1,0.7c0.5,0.4,0.8,1,0.8,1.7c0,0.6-0.2,1.1-0.5,1.5
-						c-0.3,0.4-0.7,0.7-1.3,0.9v0c0.7,0.1,1.2,0.3,1.7,0.8c0.4,0.4,0.6,1,0.6,1.7c0,0.9-0.3,1.6-0.9,2.1s-1.4,0.8-2.4,0.8H348z
-						 M349.2,326.1v3.3h1.2c0.7,0,1.2-0.2,1.6-0.5c0.4-0.3,0.6-0.8,0.6-1.3c0-1-0.7-1.5-2-1.5H349.2z M349.2,330.5v3.7h1.6
-						c0.7,0,1.3-0.2,1.6-0.5c0.4-0.3,0.6-0.8,0.6-1.4c0-1.2-0.8-1.8-2.5-1.8H349.2z"/>
-					<path id="XMLID_4764_" class="st4" d="M360.6,335.5c-1.5,0-2.6-0.5-3.5-1.4s-1.3-2.2-1.3-3.7c0-1.7,0.4-3,1.3-4
-						c0.9-1,2.1-1.5,3.6-1.5c1.4,0,2.6,0.5,3.4,1.4c0.9,1,1.3,2.2,1.3,3.7c0,1.7-0.4,3-1.3,4C363.2,335,362.1,335.5,360.6,335.5z
-						 M360.6,325.9c-1.1,0-2,0.4-2.6,1.2c-0.7,0.8-1,1.8-1,3.1c0,1.3,0.3,2.3,1,3.1c0.7,0.8,1.5,1.2,2.6,1.2c1.1,0,2-0.4,2.7-1.1
-						c0.6-0.7,1-1.8,1-3.1c0-1.4-0.3-2.4-0.9-3.1C362.6,326.3,361.8,325.9,360.6,325.9z"/>
-					<path id="XMLID_4762_" class="st4" d="M375,331.1c0,2.9-1.3,4.3-3.9,4.3c-2.5,0-3.7-1.4-3.7-4.2V325h1.2v6.2
-						c0,2.1,0.9,3.2,2.7,3.2c1.7,0,2.6-1,2.6-3V325h1.2V331.1z"/>
-					<path id="XMLID_4760_" class="st4" d="M383.6,326.1h-3v9.2h-1.2v-9.2h-3V325h7.1V326.1z"/>
-				</g>
-			</g>
-		</g>
+<rect id="XMLID_5177_" x="323.8" y="252.4" class="st0" width="201" height="335"/>
+<g id="XMLID_5160_">
+	<path id="XMLID_5172_" class="st1" d="M390.1,383.5v-15.2h4.3c1.3,0,2.4,0.3,3.1,1c0.8,0.6,1.2,1.5,1.2,2.5c0,0.9-0.2,1.6-0.7,2.3
+		c-0.5,0.7-1.1,1.1-1.9,1.4l0,0c1,0.1,1.9,0.5,2.5,1.2c0.6,0.7,0.9,1.5,0.9,2.6c0,1.3-0.5,2.4-1.4,3.2c-0.9,0.8-2.1,1.2-3.5,1.2
+		h-4.5V383.5z M391.9,369.8v4.9h1.8c1,0,1.7-0.2,2.3-0.7c0.6-0.5,0.8-1.1,0.8-2c0-1.5-1-2.2-2.9-2.2H391.9z M391.9,376.4v5.5h2.4
+		c1,0,1.9-0.2,2.4-0.7s0.9-1.2,0.9-2c0-1.8-1.2-2.7-3.7-2.7h-2V376.4z"/>
+	<path id="XMLID_5169_" class="st1" d="M413.5,383.5h-2.1l-2.6-4.3c-0.2-0.4-0.5-0.7-0.7-1c-0.2-0.3-0.4-0.5-0.7-0.7
+		c-0.2-0.2-0.5-0.3-0.7-0.4c-0.3-0.1-0.6-0.1-0.9-0.1h-1.5v6.5h-1.8v-15.2h4.6c0.7,0,1.3,0.1,1.8,0.3c0.6,0.2,1.1,0.4,1.5,0.8
+		c0.4,0.4,0.7,0.8,1,1.3s0.4,1.1,0.4,1.8c0,0.5-0.1,1-0.2,1.5c-0.2,0.4-0.4,0.8-0.7,1.2c-0.3,0.3-0.6,0.6-1.1,0.9
+		c-0.4,0.2-0.9,0.4-1.4,0.6l0,0c0.3,0.1,0.5,0.2,0.7,0.4c0.2,0.1,0.4,0.3,0.5,0.5c0.1,0.2,0.3,0.4,0.5,0.7c0.2,0.3,0.4,0.5,0.6,0.9
+		L413.5,383.5z M404.4,369.8v5.5h2.4c0.4,0,0.9-0.1,1.2-0.2c0.4-0.1,0.7-0.3,1-0.6c0.3-0.3,0.5-0.6,0.6-0.9c0.2-0.4,0.2-0.8,0.2-1.2
+		c0-0.8-0.3-1.5-0.8-1.9s-1.3-0.7-2.3-0.7L404.4,369.8L404.4,369.8z"/>
+	<path id="XMLID_5167_" class="st1" d="M417.4,383.5h-1.8v-15.2h1.8V383.5z"/>
+	<path id="XMLID_5165_" class="st1" d="M431.8,382.8c-1.1,0.6-2.5,0.9-4.2,0.9c-2.2,0-3.9-0.7-5.2-2.1c-1.3-1.4-2-3.2-2-5.5
+		c0-2.4,0.7-4.4,2.2-5.9s3.3-2.3,5.6-2.3c1.4,0,2.6,0.2,3.6,0.6v1.9c-1.1-0.6-2.3-0.9-3.6-0.9c-1.8,0-3.2,0.6-4.3,1.8
+		c-1.1,1.2-1.6,2.7-1.6,4.7c0,1.9,0.5,3.3,1.5,4.4s2.4,1.7,4,1.7c1.5,0,2.9-0.3,4-1V382.8z"/>
+	<path id="XMLID_5163_" class="st1" d="M445.5,383.5H443l-5.9-7c-0.2-0.3-0.4-0.4-0.4-0.5l0,0v7.5h-1.8v-15.2h1.8v7.2l0,0
+		c0.1-0.2,0.2-0.3,0.4-0.5l5.7-6.6h2.2l-6.5,7.3L445.5,383.5z"/>
+	<path id="XMLID_5161_" class="st1" d="M458,377.8h-4.3v4.3h-1.4v-4.3H448v-1.4h4.3v-4.3h1.4v4.3h4.3L458,377.8L458,377.8z"/>
+</g>
+<rect id="XMLID_5159_" x="346.9" y="399.7" class="st2" width="156.2" height="29.9"/>
+<rect id="XMLID_5158_" x="346.9" y="435.3" class="st1" width="156.2" height="29.9"/>
+<rect id="XMLID_5157_" x="346.9" y="470.7" class="st2" width="156.2" height="29.9"/>
+<rect id="XMLID_5156_" x="346.6" y="505.4" class="st2" width="156.2" height="29.9"/>
+<g id="XMLID_5140_">
+	<path id="XMLID_5154_" class="st3" d="M396.1,455.3h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6l0,0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
+		V445h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7l0,0c0-0.3-0.1-0.8-0.1-1.5v-7.2h1.2L396.1,455.3L396.1,455.3z"/>
+	<path id="XMLID_5152_" class="st3" d="M404.2,455.3h-5.4V445h5.2v1.1h-4v3.4h3.7v1.1H400v3.6h4.2V455.3z"/>
+	<path id="XMLID_5150_" class="st3" d="M418.4,445.1l-2.9,10.3h-1.4l-2.1-7.5c-0.1-0.3-0.1-0.7-0.2-1l0,0c0,0.4-0.1,0.7-0.2,1
+		l-2.1,7.5h-1.4l-3-10.3h1.3l2.2,7.9c0.1,0.3,0.1,0.7,0.2,1l0,0c0-0.3,0.1-0.6,0.2-1l2.3-7.9h1.2l2.2,7.9c0.1,0.3,0.1,0.6,0.2,1l0,0
+		c0-0.2,0.1-0.6,0.2-1l2.1-7.9H418.4z"/>
+	<path id="XMLID_5148_" class="st3" d="M431.6,454.6c-1,0.6-2.2,0.9-3.4,0.9c-1.5,0-2.6-0.5-3.6-1.4c-0.9-0.9-1.4-2.2-1.4-3.8
+		s0.5-2.9,1.5-3.9s2.3-1.5,3.8-1.5c1.1,0,2.1,0.2,2.8,0.5v1.3c-0.8-0.5-1.8-0.8-2.9-0.8s-2.1,0.4-2.8,1.2c-0.7,0.8-1.1,1.8-1.1,3.1
+		c0,1.3,0.3,2.3,1,3.1c0.7,0.8,1.6,1.1,2.8,1.1c0.8,0,1.5-0.2,2.1-0.5V451h-2.2v-1h3.4L431.6,454.6L431.6,454.6z"/>
+	<path id="XMLID_5145_" class="st3" d="M441.9,455.3h-1.3l-1.1-2.9h-4.4l-1,2.9h-1.3l3.9-10.3h1.2L441.9,455.3z M439.1,451.4
+		l-1.6-4.4c-0.1-0.1-0.1-0.4-0.2-0.7l0,0c0,0.3-0.1,0.5-0.2,0.7l-1.6,4.4H439.1z"/>
+	<path id="XMLID_5143_" class="st3" d="M453.9,455.3h-1.2v-6.9c0-0.5,0-1.2,0.1-2l0,0c-0.1,0.5-0.2,0.8-0.3,1l-3.5,7.9h-0.6
+		l-3.5-7.8c-0.1-0.2-0.2-0.6-0.3-1.1l0,0c0,0.4,0.1,1.1,0.1,2v6.9h-1.2V445h1.6l3.1,7.2c0.2,0.5,0.4,1,0.5,1.2l0,0
+		c0.2-0.6,0.4-1,0.5-1.3l3.2-7.1h1.5L453.9,455.3L453.9,455.3z"/>
+	<path id="XMLID_5141_" class="st3" d="M462,455.3h-5.4V445h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2L462,455.3L462,455.3z"/>
+</g>
+<g id="XMLID_5120_">
+	<g id="XMLID_5121_">
+		<path id="XMLID_5137_" class="st4" d="M401.6,490.6h-1.4l-1.7-2.9c-0.2-0.3-0.3-0.5-0.5-0.7s-0.3-0.3-0.5-0.5
+			c-0.2-0.1-0.3-0.2-0.5-0.3c-0.2-0.1-0.4-0.1-0.6-0.1h-1v4.4h-1.2v-10.3h3.1c0.4,0,0.9,0.1,1.2,0.2c0.3,0.1,0.7,0.3,1,0.5
+			c0.3,0.2,0.5,0.5,0.7,0.9c0.2,0.3,0.2,0.7,0.2,1.2c0,0.4-0.1,0.7-0.2,1s-0.3,0.6-0.5,0.8c-0.2,0.2-0.4,0.4-0.7,0.6
+			c-0.3,0.2-0.6,0.3-0.9,0.4l0,0c0.2,0.1,0.3,0.2,0.4,0.3c0.1,0.1,0.2,0.2,0.4,0.3c0.1,0.1,0.2,0.3,0.3,0.5c0.1,0.2,0.2,0.4,0.4,0.6
+			L401.6,490.6z M395.4,481.5v3.7h1.6c0.3,0,0.6,0,0.8-0.1c0.3-0.1,0.5-0.2,0.7-0.4c0.2-0.2,0.3-0.4,0.4-0.6s0.2-0.5,0.2-0.8
+			c0-0.5-0.2-1-0.5-1.3c-0.4-0.3-0.9-0.5-1.5-0.5L395.4,481.5L395.4,481.5z"/>
+		<path id="XMLID_5135_" class="st4" d="M408.4,490.6H403v-10.3h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2L408.4,490.6L408.4,490.6z"/>
+		<path id="XMLID_5133_" class="st4" d="M417.4,490.2c-0.8,0.4-1.7,0.6-2.8,0.6c-1.5,0-2.6-0.5-3.5-1.4s-1.3-2.2-1.3-3.7
+			c0-1.6,0.5-3,1.5-4s2.2-1.5,3.8-1.5c1,0,1.8,0.1,2.4,0.4v1.3c-0.7-0.4-1.5-0.6-2.4-0.6c-1.2,0-2.1,0.4-2.9,1.2
+			c-0.7,0.8-1.1,1.8-1.1,3.2c0,1.3,0.3,2.2,1,3s1.6,1.1,2.7,1.1c1,0,1.9-0.2,2.7-0.7v1.1H417.4z"/>
+		<path id="XMLID_5130_" class="st4" d="M423.2,490.8c-1.5,0-2.6-0.5-3.5-1.4s-1.3-2.2-1.3-3.7c0-1.7,0.4-3,1.3-4s2.1-1.5,3.6-1.5
+			c1.4,0,2.6,0.5,3.4,1.4c0.9,1,1.3,2.2,1.3,3.7c0,1.7-0.4,3-1.3,4S424.7,490.8,423.2,490.8z M423.3,481.3c-1.1,0-2,0.4-2.6,1.2
+			c-0.7,0.8-1,1.8-1,3.1c0,1.3,0.3,2.3,1,3.1c0.7,0.8,1.5,1.2,2.6,1.2s2-0.4,2.7-1.1s1-1.8,1-3.1c0-1.4-0.3-2.4-0.9-3.1
+			C425.3,481.7,424.4,481.3,423.3,481.3z"/>
+		<path id="XMLID_5127_" class="st4" d="M437.5,490.6h-1.4l-1.7-2.9c-0.2-0.3-0.3-0.5-0.5-0.7c-0.1-0.2-0.3-0.3-0.5-0.5
+			s-0.3-0.2-0.5-0.3s-0.4-0.1-0.6-0.1h-1v4.4h-1.2v-10.3h3.1c0.4,0,0.9,0.1,1.2,0.2c0.4,0.1,0.7,0.3,1,0.5c0.3,0.2,0.5,0.5,0.7,0.9
+			c0.2,0.3,0.2,0.7,0.2,1.2c0,0.4-0.1,0.7-0.2,1s-0.3,0.6-0.5,0.8c-0.2,0.2-0.4,0.4-0.7,0.6c-0.3,0.2-0.6,0.3-0.9,0.4l0,0
+			c0.2,0.1,0.3,0.2,0.4,0.3c0.1,0.1,0.2,0.2,0.4,0.3c0.1,0.1,0.2,0.3,0.3,0.5c0.1,0.2,0.2,0.4,0.4,0.6L437.5,490.6z M431.3,481.5
+			v3.7h1.6c0.3,0,0.6,0,0.8-0.1s0.5-0.2,0.7-0.4c0.2-0.2,0.3-0.4,0.4-0.6s0.2-0.5,0.2-0.8c0-0.5-0.2-1-0.5-1.3s-0.9-0.5-1.5-0.5
+			L431.3,481.5L431.3,481.5z"/>
+		<path id="XMLID_5124_" class="st4" d="M438.9,490.6v-10.3h2.8c3.6,0,5.4,1.7,5.4,5c0,1.6-0.5,2.9-1.5,3.8c-1,1-2.3,1.4-4,1.4h-2.7
+			V490.6z M440.1,481.5v8.1h1.5c1.3,0,2.4-0.4,3.1-1.1s1.1-1.7,1.1-3.1c0-2.6-1.4-3.9-4.2-3.9H440.1z"/>
+		<path id="XMLID_5122_" class="st4" d="M448.7,490.2v-1.4c0.2,0.1,0.4,0.3,0.6,0.4s0.5,0.2,0.7,0.3c0.3,0.1,0.5,0.1,0.8,0.2
+			s0.5,0.1,0.7,0.1c0.7,0,1.3-0.1,1.7-0.4c0.4-0.3,0.5-0.7,0.5-1.2c0-0.3-0.1-0.5-0.2-0.7s-0.3-0.4-0.5-0.6s-0.5-0.3-0.8-0.5
+			s-0.6-0.3-0.9-0.5c-0.4-0.2-0.7-0.4-1-0.6s-0.6-0.4-0.8-0.6c-0.2-0.2-0.4-0.5-0.5-0.8s-0.2-0.6-0.2-1c0-0.5,0.1-0.9,0.3-1.2
+			c0.2-0.3,0.5-0.6,0.8-0.9c0.3-0.2,0.7-0.4,1.1-0.5s0.9-0.2,1.3-0.2c1,0,1.7,0.1,2.2,0.4v1.4c-0.6-0.4-1.4-0.6-2.3-0.6
+			c-0.3,0-0.5,0-0.8,0.1s-0.5,0.1-0.7,0.3c-0.2,0.2-0.4,0.3-0.5,0.5s-0.2,0.4-0.2,0.7c0,0.3,0,0.5,0.1,0.7s0.2,0.4,0.4,0.5
+			c0.2,0.2,0.4,0.3,0.7,0.5c0.3,0.1,0.6,0.3,0.9,0.5c0.4,0.2,0.7,0.4,1,0.6s0.6,0.4,0.9,0.7s0.4,0.5,0.6,0.8s0.2,0.6,0.2,1
+			c0,0.5-0.1,0.9-0.3,1.3c-0.2,0.4-0.5,0.6-0.8,0.9c-0.3,0.2-0.7,0.4-1.2,0.5c-0.4,0.1-0.9,0.1-1.4,0.1c-0.2,0-0.4,0-0.6,0
+			s-0.5-0.1-0.7-0.1s-0.5-0.1-0.7-0.2S448.8,490.3,448.7,490.2z"/>
 	</g>
+</g>
+<g id="XMLID_5102_">
+	<path id="XMLID_5118_" class="st4" d="M397.3,419.7c-0.8,0.4-1.7,0.6-2.8,0.6c-1.5,0-2.6-0.5-3.5-1.4s-1.3-2.2-1.3-3.7
+		c0-1.6,0.5-3,1.5-4s2.2-1.5,3.8-1.5c1,0,1.8,0.1,2.4,0.4v1.3c-0.7-0.4-1.5-0.6-2.4-0.6c-1.2,0-2.1,0.4-2.9,1.2
+		c-0.7,0.8-1.1,1.8-1.1,3.2c0,1.3,0.3,2.2,1,3c0.7,0.8,1.6,1.1,2.7,1.1c1,0,1.9-0.2,2.7-0.7v1.1H397.3z"/>
+	<path id="XMLID_5115_" class="st4" d="M403.2,420.3c-1.5,0-2.6-0.5-3.5-1.4s-1.3-2.2-1.3-3.7c0-1.7,0.4-3,1.3-4s2.1-1.5,3.6-1.5
+		c1.4,0,2.6,0.5,3.4,1.4c0.9,1,1.3,2.2,1.3,3.7c0,1.7-0.4,3-1.3,4S404.6,420.3,403.2,420.3z M403.2,410.8c-1.1,0-2,0.4-2.6,1.2
+		c-0.7,0.8-1,1.8-1,3.1c0,1.3,0.3,2.3,1,3.1c0.7,0.8,1.5,1.2,2.6,1.2s2-0.4,2.7-1.1s1-1.8,1-3.1c0-1.4-0.3-2.4-0.9-3.1
+		C405.2,411.2,404.4,410.8,403.2,410.8z"/>
+	<path id="XMLID_5113_" class="st4" d="M418.3,420.2h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6l0,0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
+		v-10.3h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7l0,0c0-0.3-0.1-0.8-0.1-1.5V410h1.2L418.3,420.2L418.3,420.2z"/>
+	<path id="XMLID_5111_" class="st4" d="M427.1,411h-3v9.2h-1.2V411h-3v-1.1h7.1v1.1H427.1z"/>
+	<path id="XMLID_5109_" class="st4" d="M429.9,420.2h-1.2v-10.3h1.2V420.2z"/>
+	<path id="XMLID_5107_" class="st4" d="M440.9,420.2h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6l0,0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
+		v-10.3h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7l0,0c0-0.3-0.1-0.8-0.1-1.5V410h1.2L440.9,420.2L440.9,420.2z"/>
+	<path id="XMLID_5105_" class="st4" d="M451.1,416c0,2.9-1.3,4.3-3.9,4.3c-2.5,0-3.7-1.4-3.7-4.2v-6.3h1.2v6.2
+		c0,2.1,0.9,3.2,2.7,3.2c1.7,0,2.6-1,2.6-3v-6.3h1.2v6.1H451.1z"/>
+	<path id="XMLID_5103_" class="st4" d="M459.1,420.2h-5.4v-10.3h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2L459.1,420.2L459.1,420.2z"/>
+</g>
+<rect id="XMLID_5101_" x="346.6" y="541.4" class="st2" width="156.2" height="29.9"/>
+<g id="XMLID_5083_">
+	<g id="XMLID_5084_">
+		<path id="XMLID_5099_" class="st4" d="M393.3,525v-1.4c0.2,0.1,0.4,0.3,0.6,0.4c0.2,0.1,0.5,0.2,0.7,0.3c0.3,0.1,0.5,0.1,0.8,0.2
+			c0.3,0,0.5,0.1,0.7,0.1c0.7,0,1.3-0.1,1.7-0.4c0.4-0.3,0.5-0.7,0.5-1.2c0-0.3-0.1-0.5-0.2-0.7s-0.3-0.4-0.5-0.6s-0.5-0.3-0.8-0.5
+			s-0.6-0.3-0.9-0.5c-0.4-0.2-0.7-0.4-1-0.6s-0.6-0.4-0.8-0.6c-0.2-0.2-0.4-0.5-0.5-0.8s-0.2-0.6-0.2-1c0-0.5,0.1-0.9,0.3-1.2
+			c0.2-0.3,0.5-0.6,0.8-0.9c0.3-0.2,0.7-0.4,1.1-0.5c0.4-0.1,0.9-0.2,1.3-0.2c1,0,1.7,0.1,2.2,0.4v1.4c-0.6-0.4-1.4-0.6-2.3-0.6
+			c-0.3,0-0.5,0-0.8,0.1c-0.3,0.1-0.5,0.1-0.7,0.3c-0.2,0.2-0.4,0.3-0.5,0.5s-0.2,0.4-0.2,0.7s0,0.5,0.1,0.7s0.2,0.4,0.4,0.5
+			c0.2,0.2,0.4,0.3,0.7,0.5c0.3,0.1,0.6,0.3,0.9,0.5c0.4,0.2,0.7,0.4,1,0.6s0.6,0.4,0.9,0.7c0.3,0.3,0.4,0.5,0.6,0.8s0.2,0.6,0.2,1
+			c0,0.5-0.1,0.9-0.3,1.3c-0.2,0.4-0.5,0.6-0.8,0.9c-0.3,0.2-0.7,0.4-1.2,0.5c-0.5,0.1-0.9,0.1-1.4,0.1c-0.2,0-0.4,0-0.6,0
+			s-0.5-0.1-0.7-0.1s-0.5-0.1-0.7-0.2C393.6,525.2,393.4,525.1,393.3,525z"/>
+		<path id="XMLID_5097_" class="st4" d="M407,525.4h-5.4v-10.3h5.2v1.1h-4v3.4h3.7v1.1h-3.7v3.6h4.2L407,525.4L407,525.4z"/>
+		<path id="XMLID_5095_" class="st4" d="M415,516.3h-3v9.2h-1.2v-9.2h-3v-1.1h7.1v1.1H415z"/>
+		<path id="XMLID_5093_" class="st4" d="M423,516.3h-3v9.2h-1.2v-9.2h-3v-1.1h7.1v1.1H423z"/>
+		<path id="XMLID_5091_" class="st4" d="M425.8,525.4h-1.2v-10.3h1.2V525.4z"/>
+		<path id="XMLID_5089_" class="st4" d="M436.8,525.4h-1.5l-5.3-8.2c-0.1-0.2-0.2-0.4-0.3-0.6l0,0c0,0.2,0.1,0.7,0.1,1.4v7.4h-1.2
+			v-10.3h1.6l5.1,8.1c0.2,0.3,0.4,0.6,0.4,0.7l0,0c0-0.3-0.1-0.8-0.1-1.5v-7.2h1.2L436.8,525.4L436.8,525.4z"/>
+		<path id="XMLID_5087_" class="st4" d="M447.1,524.7c-1,0.6-2.2,0.9-3.4,0.9c-1.5,0-2.6-0.5-3.6-1.4c-1-0.9-1.4-2.2-1.4-3.8
+			s0.5-2.9,1.5-3.9s2.3-1.5,3.8-1.5c1.1,0,2.1,0.2,2.8,0.5v1.3c-0.8-0.5-1.8-0.8-2.9-0.8s-2.1,0.4-2.8,1.2c-0.7,0.8-1.1,1.8-1.1,3.1
+			s0.3,2.3,1,3.1c0.7,0.7,1.6,1.1,2.8,1.1c0.8,0,1.5-0.2,2.1-0.5v-2.9h-2.2V520h3.4L447.1,524.7L447.1,524.7z"/>
+		<path id="XMLID_5085_" class="st4" d="M449,525v-1.4c0.2,0.1,0.4,0.3,0.6,0.4c0.2,0.1,0.5,0.2,0.7,0.3c0.3,0.1,0.5,0.1,0.8,0.2
+			c0.3,0.1,0.5,0.1,0.7,0.1c0.7,0,1.3-0.1,1.7-0.4c0.4-0.3,0.5-0.7,0.5-1.2c0-0.3-0.1-0.5-0.2-0.7s-0.3-0.4-0.5-0.6
+			s-0.5-0.3-0.8-0.5s-0.6-0.3-0.9-0.5c-0.4-0.2-0.7-0.4-1-0.6s-0.6-0.4-0.8-0.6c-0.2-0.2-0.4-0.5-0.5-0.8s-0.2-0.6-0.2-1
+			c0-0.5,0.1-0.9,0.3-1.2c0.2-0.3,0.5-0.6,0.8-0.9c0.3-0.2,0.7-0.4,1.1-0.5c0.4-0.1,0.9-0.2,1.3-0.2c1,0,1.7,0.1,2.2,0.4v1.4
+			c-0.6-0.4-1.4-0.6-2.3-0.6c-0.3,0-0.5,0-0.8,0.1c-0.3,0.1-0.5,0.1-0.7,0.3c-0.2,0.2-0.4,0.3-0.5,0.5s-0.2,0.4-0.2,0.7
+			s0,0.5,0.1,0.7s0.2,0.4,0.4,0.5c0.2,0.2,0.4,0.3,0.7,0.5c0.3,0.1,0.6,0.3,0.9,0.5c0.4,0.2,0.7,0.4,1,0.6s0.6,0.4,0.9,0.7
+			c0.3,0.3,0.4,0.5,0.6,0.8s0.2,0.6,0.2,1c0,0.5-0.1,0.9-0.3,1.3c-0.2,0.4-0.5,0.6-0.8,0.9c-0.3,0.2-0.7,0.4-1.2,0.5
+			c-0.4,0.1-0.9,0.1-1.4,0.1c-0.2,0-0.4,0-0.6,0s-0.5-0.1-0.7-0.1s-0.5-0.1-0.7-0.2C449.2,525.4,449.2,525.1,449,525z"/>
+	</g>
+</g>
+<g id="XMLID_4758_">
+	<g id="XMLID_4759_">
+		<path id="XMLID_4771_" class="st4" d="M410.5,561.3h-1.3l-1.1-2.9h-4.4l-1,2.9h-1.3l3.9-10.3h1.2L410.5,561.3z M407.7,557.3
+			l-1.6-4.4c-0.1-0.1-0.1-0.4-0.2-0.7l0,0c0,0.3-0.1,0.5-0.2,0.7l-1.6,4.4H407.7z"/>
+		<path id="XMLID_4767_" class="st4" d="M412,561.3V551h2.9c0.9,0,1.6,0.2,2.1,0.7c0.5,0.4,0.8,1,0.8,1.7c0,0.6-0.2,1.1-0.5,1.5
+			c-0.3,0.4-0.7,0.7-1.3,0.9l0,0c0.7,0.1,1.2,0.3,1.7,0.8c0.4,0.4,0.6,1,0.6,1.7c0,0.9-0.3,1.6-0.9,2.1s-1.4,0.8-2.4,0.8L412,561.3
+			L412,561.3z M413.2,552.1v3.3h1.2c0.7,0,1.2-0.2,1.6-0.5s0.6-0.8,0.6-1.3c0-1-0.7-1.5-2-1.5H413.2z M413.2,556.5v3.7h1.6
+			c0.7,0,1.3-0.2,1.6-0.5c0.4-0.3,0.6-0.8,0.6-1.4c0-1.2-0.8-1.8-2.5-1.8L413.2,556.5L413.2,556.5z"/>
+		<path id="XMLID_4764_" class="st4" d="M424.6,561.5c-1.5,0-2.6-0.5-3.5-1.4c-0.9-0.9-1.3-2.2-1.3-3.7c0-1.7,0.4-3,1.3-4
+			s2.1-1.5,3.6-1.5c1.4,0,2.6,0.5,3.4,1.4c0.9,1,1.3,2.2,1.3,3.7c0,1.7-0.4,3-1.3,4S426.1,561.5,424.6,561.5z M424.6,551.9
+			c-1.1,0-2,0.4-2.6,1.2c-0.7,0.8-1,1.8-1,3.1s0.3,2.3,1,3.1c0.7,0.8,1.5,1.2,2.6,1.2s2-0.4,2.7-1.1c0.6-0.7,1-1.8,1-3.1
+			c0-1.4-0.3-2.4-0.9-3.1C426.6,552.3,425.8,551.9,424.6,551.9z"/>
+		<path id="XMLID_4762_" class="st4" d="M439,557.1c0,2.9-1.3,4.3-3.9,4.3c-2.5,0-3.7-1.4-3.7-4.2V551h1.2v6.2
+			c0,2.1,0.9,3.2,2.7,3.2c1.7,0,2.6-1,2.6-3V551h1.2v6.1H439z"/>
+		<path id="XMLID_4760_" class="st4" d="M447.6,552.1h-3v9.2h-1.2v-9.2h-3V551h7.1v1.1H447.6z"/>
+	</g>
+</g>
+<g id="XMLID_653_">
+	<path id="XMLID_1553_" class="st1" d="M438.9,282.6v-6h-2.8v3h-3v6h-6.2v-3h3v-3h-5.8v3h-9.2v-3h-2.8v3h-3.2v-6h-2.8v6h-3v3h-3
+		v74.9h47.8v-77.9H438.9z M408.8,288.5h30.3v33.3h-30.3V288.5z M439.1,324.4v3.2h-3.2v-3.2H439.1z M421.1,324.5v3.2h-3.2v-3.2H421.1
+		z M408.8,324.4h3.2v3.2h-3.2V324.4z M424.3,345.9h-6v6h-6.2v-6h-6v-6.2h6v-6h6.2v6h6V345.9z M429.8,327.7h-3.2v-3.2h3.2V327.7z
+		 M441.3,345.4h-6.2v-6.2h6.2V345.4z"/>
+	<polygon id="XMLID_506_" class="st1" points="418.2,269.3 418.2,278.1 421.2,278.1 421.2,275 424,275 424,272 421,272 421,269.3 	
+		"/>
+	<rect id="XMLID_507_" x="426.6" y="264.5" class="st1" width="5.8" height="5.8"/>
+	<polygon id="XMLID_508_" class="st1" points="442.1,270.9 442.1,273.7 447.9,273.7 447.9,264.9 445,264.9 445,270.9 	"/>
+	<polygon id="XMLID_535_" class="st1" points="400.1,272 403.1,272 403.1,269 406.1,269 406.1,275 403.1,275 403.1,277.8 
+		400.1,277.8 	"/>
 </g>
 </svg>
