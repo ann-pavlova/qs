@@ -1,6 +1,8 @@
 # Quality System
 Online demo: [website](http://ann-pavlova.github.io/qs)
 
+[![Quality System](https://i.imgur.com/JQiWCAq.png)](http://ann-pavlova.github.io/qs)
+
 ## Features
 - Fully Responsive
 - Built With HTML5 and CSS3 (LESS).
